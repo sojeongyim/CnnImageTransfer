@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Paintly Lite</string>
+    <string name="style1">Artistic Style</string>
+    <string name="style2">Oil Style</string>
+    <string name="style3">Neural Style</string>
+    <string name="style4">Harmony Style</string>
+    <string name="style5">Happy Style</string>
+</resources>

@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "442387201296",
+    "firebase_url": "https://paintly-lite.firebaseio.com",
+    "project_id": "paintly-lite",
+    "storage_bucket": "paintly-lite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442387201296:android:2ef56befbcbb3479",
+        "android_client_info": {
+          "package_name": "com.example.pulse9dev4.fastneuraltransfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442387201296-efudpifqoae15lbkapq1mrotk41ijebq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1PQyvpcEh-RZBGetmmUV-e_vfBvjmlmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442387201296:android:fdc14a5a1db8f46b",
+        "android_client_info": {
+          "package_name": "com.pulse9.paintlylite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442387201296-efudpifqoae15lbkapq1mrotk41ijebq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1PQyvpcEh-RZBGetmmUV-e_vfBvjmlmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442387201296:android:9bb257c5b5349dd7",
+        "android_client_info": {
+          "package_name": "com.pulse9.pulse9dev4.fastneuraltransfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442387201296-efudpifqoae15lbkapq1mrotk41ijebq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1PQyvpcEh-RZBGetmmUV-e_vfBvjmlmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
